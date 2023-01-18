@@ -80,8 +80,8 @@
           <appName>az204liketraining-dev03</appName>  
           <pricingTier>P1v2</pricingTier>  
           <region>westeurope</region>  
-          <appServicePlanName>af-klm-az-204-asp</appServicePlanName>  
-          <appServicePlanResourceGroup>af-klm-az-204</appServicePlanResourceGroup>  
+          <appServicePlanName>ASP-rgtrainee03-939d</appServicePlanName>  
+          <appServicePlanResourceGroup>rg_trainee_03</appServicePlanResourceGroup>  
           <runtime> 
             <os>Linux</os>  
             <javaVersion>17.0.2</javaVersion>  
